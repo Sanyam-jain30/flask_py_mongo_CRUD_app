@@ -6,12 +6,8 @@ from bson.objectid import ObjectId
 app = Flask(__name__)
 
 try:
-    mongo = pymongo.MongoClient(
-        host = "localhost",
-        port = 27017,
-        serverSelectionTimeoutMS = 1000
-    )
-    db = mongo.customer
+    mongo = pymongo.MongoClient("mongodb+srv://sanyam:sanyam@customer.5qxm9.mongodb.net/customer?retryWrites=true&w=majority")
+    db = mongo.get_database('customer')
     mongo.server_info()
 
 except:
@@ -131,4 +127,4 @@ def delete_customer(id):
         )
 
 if __name__ == "__main__":
-    app.run(port = 80, debug = True)
+    app.run(port = 5000, debug = True)
