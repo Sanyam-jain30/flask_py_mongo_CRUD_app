@@ -1,36 +1,36 @@
 # flask_py_mongo_CRUD_app
 
-Initially in mongo compass
-![Screenshot 2022-02-01 175904](https://user-images.githubusercontent.com/78720027/151969024-2974f50e-b6ed-43c6-8b1e-178a90ecf8f0.png)
+Initially in mongo atlas
+![Screenshot 2022-02-01 204240](https://user-images.githubusercontent.com/78720027/151996143-9c789f89-2a2f-4ae4-8d44-2ef4a202420b.png)
 
 Create:
 
 Postman
-![Screenshot 2022-02-01 175941](https://user-images.githubusercontent.com/78720027/151969073-0c732e52-bbd0-4dcd-af83-1fde68abbe16.png)
+![Screenshot 2022-02-01 204307](https://user-images.githubusercontent.com/78720027/151996245-e285a853-2374-4753-ad4f-775ea9f10e7c.png)
 
-Mongo comapss
-![Screenshot 2022-02-01 180003](https://user-images.githubusercontent.com/78720027/151969109-0af1e738-0a8a-447f-affd-ac4e9f479019.png)
+Mongo atlas
+![Screenshot 2022-02-01 204331](https://user-images.githubusercontent.com/78720027/151996310-246ab6b9-e860-4a0f-9d5a-9f5621657dbf.png)
 
 
 Read:
 
 Postman
-![Screenshot 2022-02-01 180033](https://user-images.githubusercontent.com/78720027/151969145-ec4ae666-e606-4bb1-8227-6dc397c620f9.png)
+![Screenshot 2022-02-01 204352](https://user-images.githubusercontent.com/78720027/151996333-d43be88f-4ed7-4bbb-85dc-dc8a76f4132b.png)
 
 
 Update:
 
 Postman
-![Screenshot 2022-02-01 180108](https://user-images.githubusercontent.com/78720027/151969214-53aaf57c-37d2-4586-a79e-27d669f7ab70.png)
+![Screenshot 2022-02-01 204426](https://user-images.githubusercontent.com/78720027/151996368-6f1d503a-9672-480b-8c97-e070891e2f7d.png)
 
-Mongo compass
-![Screenshot 2022-02-01 180127](https://user-images.githubusercontent.com/78720027/151969275-d5a61231-d4d5-4600-baba-d5a6b3374d09.png)
+Mongo atlas
+![Screenshot 2022-02-01 204447](https://user-images.githubusercontent.com/78720027/151996411-9e66ac71-9b66-4495-9ac6-651ba09a10fe.png)
 
 
 Delete:
 
 Postman
-![Screenshot 2022-02-01 180205](https://user-images.githubusercontent.com/78720027/151969332-59a1372f-a4b7-47e4-9681-eae8635bf11c.png)
+![Screenshot 2022-02-01 204526](https://user-images.githubusercontent.com/78720027/151996447-c0efc05c-ce13-45e1-99c0-96202415ede7.png)
 
-Mongo compass
-![Screenshot 2022-02-01 180220](https://user-images.githubusercontent.com/78720027/151969358-834efd03-16ce-474d-a1b9-dbd1be36a4e6.png)
+Mongo atlas
+![Screenshot 2022-02-01 204546](https://user-images.githubusercontent.com/78720027/151996474-e9c53790-877f-45e5-87ba-61eb57b0feec.png)
