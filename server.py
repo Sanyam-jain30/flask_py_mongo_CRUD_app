@@ -6,7 +6,7 @@ from bson.objectid import ObjectId
 app = Flask(__name__)
 
 try:
-    mongo = pymongo.MongoClient("mongodb+srv://sanyam:sanyam@customer.5qxm9.mongodb.net/customer?retryWrites=true&w=majority")
+    mongo = pymongo.MongoClient("<Mongo atlas connection link>")
     db = mongo.get_database('customer')
     mongo.server_info()
 
